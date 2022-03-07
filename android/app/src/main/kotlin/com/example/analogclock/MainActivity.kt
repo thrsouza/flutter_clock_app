@@ -1,4 +1,4 @@
-package com.thiagosouza.analogclock
+package com.thiagosouza.clock_app
 
 import io.flutter.embedding.android.FlutterActivity
 

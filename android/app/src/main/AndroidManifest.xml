@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.thiagosouza.analogclock">
+    package="com.thiagosouza.clock_app">
    <application
-        android:label="analogclock"
+        android:label="clock_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
